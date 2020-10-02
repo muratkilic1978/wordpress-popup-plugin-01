@@ -6,6 +6,8 @@ Remember after downloading the git repo - you should copy the sub-folder (newspl
 # Go to WordPress Dasboard and Activate
 Next you need to login into your WordPress Dashboard and go to plugin. Here you will have to activate your newly added newsplugin.
 
-# Add a new WordPress page and insert the following shortcode - [show_newsletter]
+# Add a new WordPress 
+Go to your WordPress Dashboard and add a new page and insert the following shortcode - [show_newsletter]
 
-# Finally go and open your newly create page - where your newsplugin will appear.
+# Visit your newly created page
+Finally go and open your newly create page - where your newsplugin will appear.
